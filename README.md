@@ -44,7 +44,7 @@ and transactions.market_code="Mark001";`
 PREVIEW
 ============================
 
-![Page1](https://github.com/TanishqMalik707/Sale-Data-Analysis-PowerBI/blob/master/Sales-key-insight.png)
+![Page1](https://github.com/TanishqMalik707/Sales_Data_Analaysis_Powerbi_SQl/blob/main/Sales-key-insight.png)
 
 
 
